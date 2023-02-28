@@ -4,7 +4,7 @@
 
 React Course 2022 is an educational project.
 
-The project is made with HTML5, CSS3, TypeScript, React Native, Tailwind, Axios.
+The project is made with HTML5, CSS3, TypeScript, React Native, Tailwind, Axios, React router dom.
 
 ## Getting Started with Create React App
 
