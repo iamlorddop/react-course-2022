@@ -4,7 +4,7 @@
 
 React Course 2022 is an educational project.
 
-The project is made with HTML5, CSS3, TypeScript, React Native, Tailwind.
+The project is made with HTML5, CSS3, TypeScript, React Native, Tailwind, Axios.
 
 ## Getting Started with Create React App
 
@@ -25,6 +25,8 @@ Link to Tutorial: [React и TypeScript - Быстрый Курс [2022]](https:/
 Link to Fake Store API: [Fake Store API](https://fakestoreapi.com/)
 
 Link to Tailwind: [Tailwind](https://tailwindcss.com/docs/guides/create-react-app)
+
+Link to Axios: [Axios](https://axios-http.com/docs/intro)
 
 ---
 Yulia Khavaeva
